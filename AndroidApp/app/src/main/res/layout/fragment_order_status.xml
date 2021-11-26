@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/coffee_light_white"
+    android:orientation="vertical"
+    android:padding="0dp">
+
+    <TextView
+        android:id="@+id/textView3"
+        style="@style/Text.Title"
+        android:layout_marginBottom="30dp"
+        android:paddingStart="30dp"
+        android:paddingTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="주문현황 조회"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:id="@+id/tvStatus"
+        style="@style/Text.Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="30dp"
+        android:text="주문상세"
+        android:textColor="@color/coffee_point_red"
+        android:textSize="20dp" />
+
+    <LinearLayout
+        android:id="@+id/llOrderStatus"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <com.shuhart.stepview.StepView
+            android:id="@+id/step_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:padding="16dp"
+
+            app:sv_animationType="Line"
+            app:sv_doneCircleColor="@color/coffee_brown"
+            app:sv_doneCircleRadius="12dp"
+            app:sv_doneStepLineColor="@color/coffee_light_gray"
+            app:sv_doneStepMarkColor="@color/coffee_light_white"
+            app:sv_nextStepLineColor="@color/coffee_brown"
+            app:sv_nextTextColor="@color/coffee_brown"
+            app:sv_selectedCircleColor="@color/coffee_brown"
+            app:sv_selectedCircleRadius="12dp"
+            app:sv_selectedStepNumberColor="@color/coffee_light_white"
+            app:sv_selectedTextColor="@color/coffee_brown"
+            app:sv_doneTextColor="@color/coffee_light_gray"
+            app:sv_stepLineWidth="1dp"
+            app:sv_stepNumberTextSize="12sp"
+            app:sv_stepPadding="4dp"
+            app:sv_stepViewStyle="@style/StepView"
+            app:sv_stepsNumber="5" />
+
+        <TextView
+            android:id="@+id/tvOrderedDate"
+            style="@style/Text.Title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingStart="30dp"
+            android:text="2021.05.01"
+            android:textColor="@color/coffee_dark_brown"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/tvTotPrice"
+            style="@style/Text.Title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:paddingStart="30dp"
+            android:paddingEnd="30dp"
+            android:paddingBottom="30dp"
+            android:text="20,000원"
+            android:textColor="@color/coffee_dark_brown"
+            android:textSize="20dp" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvOrderDetailList"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:paddingStart="30dp"
+            android:paddingEnd="30dp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

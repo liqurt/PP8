@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/ic_baseline_person_22"
+            android:iconTint="@color/coffee_brown"
+            android:title="@string/menu_drawer_my_profile"
+            />
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/ic_baseline_edit_24"
+            android:title="@string/menu_drawer_my_review_list"
+            />
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/ic_baseline_electric_scooter_24"
+            android:title="@string/menu_drawer_my_order"
+            />
+    </group>
+
+    <item
+        android:title="Personal"
+        android:iconTint="@color/coffee_brown">
+        <menu>
+            <item
+                android:id="@+id/item4"
+                android:icon="@drawable/ic_baseline_card_membership_24"
+                android:title="@string/menu_drawer_membership"/>
+
+            <item
+                android:id="@+id/item5"
+                android:icon="@drawable/ic_baseline_qr_code_scanner_24"
+                android:title="@string/menu_drawer_qr"/>
+
+            <item
+                android:id="@+id/item6"
+                android:icon="@drawable/ic_baseline_follow_the_signs_24"
+                android:title="@string/menu_drawer_logout"/>
+        </menu>
+    </item>
+
+
+</menu>

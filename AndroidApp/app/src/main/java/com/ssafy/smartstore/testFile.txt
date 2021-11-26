@@ -1,0 +1,6 @@
+RecyclerView에서 쿠폰 클릭하고, 확인 누르면...
+
+Dialog를 닫는다.
+ShoppingListFragment 하단에 -20% 된 금액을 제시한다.
+
+클릭한 쿠폰의 ID를 받아온다.

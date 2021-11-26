@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_margin="10dp">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/logo"
+        android:layout_marginBottom="30dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="이용 알림"
+        android:textSize="30dp"
+        style="@style/Text.Title"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginBottom="10dp"
+        android:text="1. 매장내 이용시 테이블의 \nNFC를 태그하면 해당 테이블로 음료를 가져다드립니다."
+        android:textSize="20dp"
+        style="@style/Text.light"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="주문하신 음료"
+        android:textSize="30dp"
+        style="@style/Text.Title"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="0dp"
+            android:layout_marginTop="20dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:backgroundTint="@color/coffee_menu_back">
+            <ImageView
+                android:id="@+id/dialog_coffee_img"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/coffee1" />
+        </androidx.cardview.widget.CardView>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_marginTop="20dp">
+
+            <TextView
+                android:id="@+id/dialog_coffee_menu"
+                android:layout_width="180dp"
+                android:layout_height="wrap_content"
+                android:text="아메리카노"
+                android:textSize="30sp"
+                android:textAlignment="center"
+                style="@style/Text.Regular"/>
+
+            <TextView
+                android:id="@+id/dialog_coffee_price"
+                android:layout_width="180dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:text="4100원"
+                android:textSize="30sp"
+                android:textAlignment="center"
+                style="@style/Text.Regular"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

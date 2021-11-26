@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="5dp"
+    android:background="@drawable/textview_regular"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingLeft="0dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@color/coffee_menu_back"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/menuImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:src="@drawable/coffee1" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/textMenuNames"
+        style="@style/Text.Regular"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="아메리카노 외 3잔"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/textMenuPrice"
+        style="@style/Text.Regular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="25,000원"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/textMenuDate"
+        style="@style/Text.Regular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="2021.05.06"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/textCompleted"
+        style="@style/Text.Regular"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        android:layout_weight="1"
+        android:background="@drawable/button_go_order"
+        android:gravity="center"
+        android:text="픽업완료" />
+</LinearLayout>

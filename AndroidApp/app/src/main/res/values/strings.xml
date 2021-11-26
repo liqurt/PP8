@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Smartstore</string>
+    <string name="name">벼락부자핫도그</string>
+    <string name="api_key">AIzaSyDe7QEHcSSXMg5kjt687akgc4KRlRC1n9I</string>
+
+    <!--  F21 : Beacon을 이용한 알림 전달  -->
+    <string name="F21DialogTitle">이용 알림</string>
+    <string name="F21DialogContents1">1. 매장내 이용시 테이블의 NFC를 태그하면 해당 테이블로 음료를 가져다 드립니다.</string>
+    <string name="F21DialogContents2">주문하신 음료</string>
+    <string name="F21DialogConfirm">확인</string>
+
+    <string name="fragment_map_text">지도</string>
+    <string name="fragment_map_detail_info_text">상세정보</string>
+
+    <string name="menu_drawer_my_profile">내 프로필</string>
+    <string name="menu_drawer_my_review_list">내가 작성한 리뷰</string>
+    <string name="menu_drawer_my_order">주문 현황</string>
+    <string name="menu_drawer_membership">멤버십 바코드</string>
+    <string name="menu_drawer_qr">QR 체크인</string>
+    <string name="menu_drawer_logout">로그아웃</string>
+
+    <string name="drawer_header_greeting">환영합니다!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="dialog_coupon_cancel">취소</string>
+    <string name="dialog_coupon_ok">확인</string>
+    <string name="dialog_coupon_title">사용 가능한 쿠폰</string>
+
+    <string name="fragment_shopping_list_discount_how_much">할인</string>
+    <string name="fragment_shopping_list_discounted">결제할 금액</string>
+
+</resources>

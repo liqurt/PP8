@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/activity_login.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/dialog_beacon.xml" value="0.25" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/dialog_map_store.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/dialog_menu_comment.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/fragment_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/fragment_map.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/fragment_menu_detail.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/fragment_mypage.xml" value="0.33" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/fragment_order.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/fragment_order_detail.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/fragment_shopping_list.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/list_item_comment.xml" value="0.5" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/list_item_latest_order.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/list_item_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/list_item_notice.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/list_item_order.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/list_item_order_detail_list.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP6/app/src/main/res/layout/list_item_shopping_list.xml" value="0.1" />
+        <entry key="..\:/Users/D211102/Desktop/PP8_master_v1/project_final/AndroidApp/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/D211102/Desktop/PP8_master_v1/project_final/AndroidApp/app/src/main/res/layout/activity_splash.xml" value="0.33106884057971014" />
+        <entry key="..\:/Users/D211102/Desktop/PP8_master_v1/project_final/AndroidApp/app/src/main/res/layout/dialog_coupon.xml" value="0.5" />
+        <entry key="..\:/Users/D211102/Desktop/PP8_master_v1/project_final/AndroidApp/app/src/main/res/layout/dialog_menu_custom.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/D211102/Desktop/PP8_master_v1/project_final/AndroidApp/app/src/main/res/layout/fragment_my_comment.xml" value="0.1" />
+        <entry key="..\:/Users/D211102/Desktop/PP8_master_v1/project_final/AndroidApp/app/src/main/res/layout/fragment_order.xml" value="0.20625" />
+        <entry key="..\:/Users/D211102/Desktop/PP8_master_v1/project_final/AndroidApp/app/src/main/res/layout/fragment_shopping_list.xml" value="0.25" />
+        <entry key="..\:/Users/D211102/Desktop/PP8_master_v1/project_final/AndroidApp/app/src/main/res/layout/list_item_my_comment.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/D211102/Desktop/PP8_master_v1/project_final/AndroidApp/app/src/main/res/layout/list_item_my_coupon.xml" value="0.12909441233140656" />
+        <entry key="..\:/Users/MAYDAY/Desktop/Smartstore_Network-starter/app/src/main/res/layout/activity_login.xml" value="0.25815217391304346" />
+        <entry key="..\:/Users/MAYDAY/Desktop/Smartstore_Network-starter/app/src/main/res/layout/dialog_beacon.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/MAYDAY/Desktop/Smartstore_Network-starter/app/src/main/res/layout/dialog_map_store.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/MAYDAY/Desktop/Smartstore_Network-starter/app/src/main/res/layout/dialog_menu_comment.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/MAYDAY/Desktop/Smartstore_Network-starter/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/MAYDAY/Desktop/Smartstore_Network-starter/app/src/main/res/layout/fragment_join.xml" value="0.25815217391304346" />
+        <entry key="..\:/Users/MAYDAY/Desktop/Smartstore_Network-starter/app/src/main/res/layout/fragment_menu_detail.xml" value="0.2046875" />
+        <entry key="..\:/Users/MAYDAY/Desktop/Smartstore_Network-starter/app/src/main/res/layout/fragment_order.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/MAYDAY/Desktop/Smartstore_Network-starter/app/src/main/res/layout/fragment_shopping_list.xml" value="0.2046875" />
+        <entry key="..\:/Users/MAYDAY/Desktop/Smartstore_Network-starter/app/src/main/res/layout/list_item_latest_order.xml" value="0.25" />
+        <entry key="..\:/Users/MAYDAY/Desktop/Smartstore_Network-starter/app/src/main/res/layout/list_item_order.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/MAYDAY/Desktop/Smartstore_Network-starter/app/src/main/res/layout/list_item_order_detail_list.xml" value="0.2046875" />
+        <entry key="..\:/Users/MAYDAY/Desktop/Smartstore_Network-starter/app/src/main/res/layout/list_item_shopping_list.xml" value="0.2046875" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable-v24/ic_broken_image.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable-v24/loading_img.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/backg.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/button_color.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/button_go_order.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/button_non_color.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/button_regular.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/button_regular_red.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/ic_baseline_electric_scooter_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/ic_baseline_person_22.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/indicator.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/textview_regular.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/drawable/textview_regular_red.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/activity_main.xml" value="0.365625" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/dialog_beacon.xml" value="0.3625" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/dialog_coupon.xml" value="0.264" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/dialog_map_store.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/dialog_membership.xml" value="0.31296296296296294" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/dialog_menu_comment.xml" value="0.264" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/dialog_menu_custom.xml" value="0.4" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/drawer_header.xml" value="0.264" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/fragment_home.xml" value="0.365625" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/fragment_join.xml" value="0.3625" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/fragment_login.xml" value="0.3625" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/fragment_map.xml" value="0.1" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/fragment_menu_custom.xml" value="0.264" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/fragment_menu_detail.xml" value="0.264" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/fragment_my_comment.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/fragment_mypage.xml" value="0.2" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/fragment_order.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/fragment_order_detail.xml" value="0.365625" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/fragment_order_status.xml" value="0.264" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/fragment_shopping_list.xml" value="0.264" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/fragment_web_view.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/list_item_comment.xml" value="0.1" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/list_item_latest_order.xml" value="0.2046875" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/list_item_menu.xml" value="0.2046875" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/list_item_my_comment.xml" value="0.2" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/list_item_my_coupon.xml" value="0.264" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/list_item_notice.xml" value="0.2046875" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/list_item_order.xml" value="0.365625" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/list_item_order_detail_list.xml" value="0.264" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/layout/list_item_shopping_list.xml" value="0.264" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/menu/bottom_nav.xml" value="0.365625" />
+        <entry key="..\:/Users/SSAFY/AndroidStudioProjects/project_final/AndroidApp/app/src/main/res/menu/drawer.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
